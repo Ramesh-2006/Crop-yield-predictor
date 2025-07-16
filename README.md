@@ -29,34 +29,6 @@ Risk management
 
 Government policies & planning
 
-🏗️ Project Architecture
-
-+--------------------+
-|  CSV Input Dataset |
-+--------------------+
-           ↓
-+------------------------+
-|  Data Preprocessing    |
-| (nulls, encoding, etc) |
-+------------------------+
-           ↓
-+------------------------+
-|    Train/Test Split    |
-+------------------------+
-           ↓
-+----------------------------+
-| Machine Learning Model(s) |
-| (e.g., Linear Regression, |
-|  Random Forest, XGBoost)  |
-+----------------------------+
-           ↓
-+------------------------+
-|     Yield Prediction   |
-+------------------------+
-           ↓
-+------------------------+
-|   Web App / Streamlit  |
-+------------------------+
 🛠️ Technologies Used
 Python 
 
